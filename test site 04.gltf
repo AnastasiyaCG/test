@@ -5,27 +5,9 @@
 	},
 	"scenes":[{
 		"nodes":[0,
-		2]
+		1]
 	}],
 	"nodes":[{
-		"name":"Atom Array",
-		"translation":[0.0,
-		-23.306129455566408,
-		0.0],
-		"rotation":[0.0,
-		0.0,
-		0.0,
-		-1.0],
-		"scale":[1.0,
-		1.0,
-		1.0],
-		"children":[1]
-	},
-	{
-		"name":"Cylinder",
-		"mesh":0
-	},
-	{
 		"name":"Camera",
 		"translation":[63.813323974609378,
 		103.52355194091797,
@@ -38,6 +20,20 @@
 		1.0,
 		1.0],
 		"camera":0
+	},
+	{
+		"name":"Cylinder",
+		"translation":[0.0,
+		-23.306129455566408,
+		0.0],
+		"rotation":[0.0,
+		0.0,
+		0.0,
+		-1.0],
+		"scale":[1.0,
+		1.0,
+		1.0],
+		"mesh":0
 	}],
 	"meshes":[{
 		"name":"Cylinder",
